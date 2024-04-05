@@ -1,0 +1,6 @@
+train: D:\python_projects\other shit\mathSolverRepo\train
+val: D:\python_projects\other shit\mathSolverRepo\val
+
+nc: 1
+
+names: ["dog"]
